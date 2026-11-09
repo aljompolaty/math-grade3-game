@@ -1,0 +1,39 @@
+{
+  "id": "./index.html",
+  "name": "مختبر الرياضيات التفاعلي – الصف الثالث المتوسط (بخت الرضا)",
+  "short_name": "مختبر الرياضيات ٣م",
+  "description": "مختبر الرياضيات التفاعلي الشامل للصف الثالث المتوسط (منهج بخت الرضا ٢٠٢٤م) بالشرح الصوتي والمختبرات الثماني والمعلم الذكي.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbf7ec",
+  "theme_color": "#0066b3",
+  "categories": [
+    "education",
+    "books",
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
